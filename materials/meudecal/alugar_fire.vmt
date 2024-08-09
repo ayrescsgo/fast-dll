@@ -1,0 +1,7 @@
+"lightmappedgeneric" {
+    "$basetexture" "meudecal/alugar_fire"
+    "$translucent" 1
+    "$decal" 1
+    "$decalscale" 0.1
+    "$surfaceprop" "Default"
+}
