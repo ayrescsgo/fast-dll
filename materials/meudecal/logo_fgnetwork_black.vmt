@@ -1,0 +1,7 @@
+"lightmappedgeneric" {
+    "$basetexture" "meudecal/logo_fgnetwork_black"
+    "$translucent" 1
+    "$decal" 1
+    "$decalscale" 0.1
+    "$surfaceprop" "Default"
+}
